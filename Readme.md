@@ -114,25 +114,25 @@ title,text,label
 1. **ISOT Fake News Detection Dataset**
    - Source: Kaggle
    - Size: ~44,000 articles
-   - URL: https://www.kaggle.com/datasets/emineyetis/fake-news-detection-datasets
+   - URL: https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
    - Features: title, text, label, date
 
 2. **FakeNewsNet**
    - Source: GitHub
    - Size: ~400k+ articles
-   - URL: https://github.com/KaiDMML/FakeNewsNet
+   - URL: https://github.com/nehalmenon123-lang/Rumour-Identification
    - Features: news_content, social_context, label
 
 3. **News Credibility Dataset**
    - Source: GitHub
    - Size: ~1,000+ rumors
-   - URL: https://github.com/rumor-identification
+   - URL: https://github.com/KaiDMML/FakeNewsNet
    - Features: tweet_text, label, user_info
 
 4. **Buzzfeed Fake News Dataset**
    - Source: BuzzFeed
    - Size: ~5,800 articles
-   - URL: https://github.com/BuzzFeedNews/2016-10-facebook-ad-analysis
+   - URL: https://github.com/BuzzFeedNews/2018-07-wildfire-trends
    - Features: title, text, label
 
 ### Generate Sample Dataset
@@ -565,4 +565,5 @@ curl http://localhost:5000/api/info
 **Version**: 1.0  
 **Last Updated**: February 2026  
 **Author**: AI Assistant  
+
 **Status**: Production Ready
